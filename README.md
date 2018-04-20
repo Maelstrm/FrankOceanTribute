@@ -1,6 +1,6 @@
 Frank Ocean Tribute
 =====
-##Biography & discography
+## Biography & discography
 
 Frank Ocean is one of my favorite musicians. As a personal project, I decided to make a tribute page dedicated to his discography.
 
