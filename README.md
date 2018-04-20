@@ -14,5 +14,5 @@ This webpage was created to practice my front-end development skills.
 
 The following languages & frameworks were used:
 
-*HTML5
-*CSS/Bootstrap
+* HTML5
+* CSS/Bootstrap
