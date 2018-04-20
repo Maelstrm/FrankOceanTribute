@@ -8,7 +8,7 @@ The content of the page is pulled from his [Wikipedia](https://en.wikipedia.org/
 
 ## Purpose
 
-This webpage was created to practice my front-end development skills.
+The goal of this project is to learn more about web development and practice my front-end development skills.
 
 ## Code
 
