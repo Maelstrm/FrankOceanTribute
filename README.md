@@ -15,4 +15,5 @@ The goal of this project is to learn more about web development and practice my 
 The following languages & frameworks were used:
 
 * HTML5
-* CSS/Bootstrap
+* CSS Bootstrap
+* Javascript Vanilla/Bootstrap
