@@ -2,7 +2,7 @@ Frank Ocean Tribute
 =====
 ## Project Outline
 
-Frank Ocean is one of my favorite musicians. As a personal project, I decided to make a tribute page dedicated to his discography.
+Frank Ocean is one of my favorite musicians. As a personal project, I decided to make a tribute page dedicated to his life and discography. This webpage will include photos, video, and selections of text.
 
 The content of the page is pulled from his [Wikipedia](https://en.wikipedia.org/wiki/Frank_Ocean) page.
 
