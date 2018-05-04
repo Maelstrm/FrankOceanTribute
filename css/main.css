@@ -1,6 +1,6 @@
 
 body {
-  background-color: white;
+  background-color: #08121a;
 }
 
 .index-photo {
@@ -13,9 +13,20 @@ body {
 
 
 .image-format {
-  padding-right: 5px;
-  padding-bottom: auto;
+  margin-right: 5px;
+  margin-bottom: 5px;
   max-width: 250px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #8F9491;
+}
+
+.image-full {
+  min-width: 100%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #8F9491;
+  margin-bottom: 10px;
 }
 
 .all-div {
@@ -38,13 +49,13 @@ body {
   position: fixed;
   top: o;
   width: 100%;
-  background-color: black;
+  background-color: #1a2731;
 }
 
 .navbar a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -52,7 +63,7 @@ body {
 }
 
 .navbar a:hover {
-  background: #ddd;
+  background: #e3e5d8;
   color: black;
 }
 
@@ -62,25 +73,49 @@ body {
   -webkit-overflow-scrolling: touch;
 }
 
-.jumbotron {
-  padding: 16px;
-}
-
 .fa-headphones {
   font-size: 2.5em;
-  color: white;
+  color: #e3e5d8;
   text-shadow: 1px 1px  #A5A3A3;
+}
 
+.subtitle-box {
+  background-color: #35444f;
+  width: inherit;
+  margin-bottom: 5px;
+}
+
+.jumbotron {
+  background-color: #e3e5d8;
+  padding: 0px;
 }
 
 h1 {
   font-size: 2.5em;
-  color: white;
+  color: #e3e5d8;
   text-shadow: 1px 1px  #A5A3A3;
+  font-family: Verdana;
+  font-weight: 600;
 }
 
 h2 {
-  /* text-decoration: underline; */
+  font-size: 2em;
+  color: #b9bab0;
+  font-weight: bold;
+  vertical-align: bottom;
+  padding-left: 10px;
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+
+h3 {
+  font-size: 1.3em;
+  color: #b9bab0;
+  font-weight: bold;
+  vertical-align: bottom;
+  padding-left: 10px;
+  padding-bottom: 7px;
+  padding-top: 5px;
 }
 
 span + span {
@@ -89,8 +124,11 @@ span + span {
 
 hr {
   padding-bottom: 5px;
+  border-width: 3px;
+  color: #8F9491;
 }
 
 p {
-  
+  margin: 16px;
+
 }
