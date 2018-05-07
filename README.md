@@ -23,3 +23,4 @@ The following languages & frameworks were used:
 * Clean up code and remove excess spaces
 * Add comments to index, music, and bio pages.
 * Decorate navigation bar and subtitles with css. (something with waves)
+* Add a lightbox image gallery for the photos page.
