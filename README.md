@@ -17,3 +17,9 @@ The following languages & frameworks were used:
 * HTML5
 * CSS Bootstrap
 * Javascript Vanilla/Bootstrap
+
+## To-Do List
+
+* Clean up code and remove excess spaces
+* Add comments to index, music, and bio pages.
+* Decorate navigation bar and subtitles with css. (something with waves)
