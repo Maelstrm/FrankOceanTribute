@@ -15,17 +15,15 @@ body {
 .image-format {
   margin-right: 5px;
   margin-bottom: 5px;
+  margin-left: 16px;
   max-width: 250px;
   border-style: solid;
   border-width: 2px;
-  border-color: #8F9491;
+  border-color: #35444f;
 }
 
 .image-full {
   min-width: 100%;
-  border-style: solid;
-  border-width: 2px;
-  border-color: #8F9491;
   margin-bottom: 10px;
 }
 
@@ -42,6 +40,7 @@ body {
   margin-right: auto;
   margin-left: auto;
   max-width: 900px;
+  min-height: 316px;
 }
 
 .navbar {
@@ -116,6 +115,11 @@ h3 {
   padding-left: 10px;
   padding-bottom: 7px;
   padding-top: 5px;
+}
+
+h4 {
+  font-size: 1em;
+  font-weight: bold;
 }
 
 span + span {
