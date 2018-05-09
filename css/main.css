@@ -1,92 +1,7 @@
+/* Below here is where the code for stylistic elements will go */
 
 body {
   background-color: #08121a;
-}
-
-.index-photo {
-  height: 100vh;
-  width: 100%;
-  background: url('../images/home_bg_2.jpg') no-repeat;
-  background-size: cover;
-  background-position: center top;
-}
-
-
-.image-format {
-  margin-right: 5px;
-  margin-bottom: 5px;
-  margin-left: 16px;
-  max-width: 250px;
-  border-style: solid;
-  border-width: 2px;
-  border-color: #35444f;
-}
-
-.image-full {
-  min-width: 100%;
-  margin-bottom: 10px;
-}
-
-.all-div {
-  padding: 0;
-}
-
-.main-start {
-  padding-top: 6rem;
-}
-
-.main-content {
-  display: block;
-  margin-right: auto;
-  margin-left: auto;
-  max-width: 900px;
-  min-height: 316px;
-}
-
-.navbar {
-  overflow: hidden;
-  position: fixed;
-  top: o;
-  width: 100%;
-  background-color: #1a2731;
-}
-
-.navbar a {
-  float: left;
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.navbar a:hover {
-  background: #e3e5d8;
-  color: black;
-}
-
-.scroll {
-  white-space: nowrap;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-}
-
-.fa-headphones {
-  font-size: 2.5em;
-  color: #e3e5d8;
-  text-shadow: 1px 1px  #A5A3A3;
-}
-
-.subtitle-box {
-  background-color: #35444f;
-  width: inherit;
-  margin-bottom: 5px;
-}
-
-.jumbotron {
-  background-color: #e3e5d8;
-  padding: 0px;
 }
 
 h1 {
@@ -135,4 +50,102 @@ hr {
 p {
   margin: 16px;
 
+}
+
+/* Below here is where element classes will go */
+
+
+/* Landing page cover image */
+.index-photo {
+  height: 100vh;
+  width: 100%;
+  background: url('../images/home_bg_2.jpg') no-repeat;
+  background-size: cover;
+  background-position: center top;
+}
+
+/* Regular images for content sections */
+.image-format {
+  margin-right: 5px;
+  margin-bottom: 5px;
+  margin-left: 16px;
+  max-width: 250px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #35444f;
+}
+
+/* Full width images for content sections */
+.image-full {
+  min-width: 100%;
+  margin-bottom: 10px;
+}
+
+.all-div {
+  padding: 0;
+}
+
+/* Master container for all main content */
+.main-start {
+  padding-top: 6rem;
+}
+
+/* Main areas where the majority of content will be displayed */
+.main-content {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 900px;
+  min-height: 316px;
+}
+
+.jumbotron {
+  background-color: #e3e5d8;
+  padding: 0px;
+}
+
+/* Navigation Container */
+.navbar {
+  overflow: hidden;
+  position: fixed;
+  top: o;
+  width: 100%;
+  background-color: #1a2731;
+}
+
+/* Navigation Links */
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #e3e5d8;
+  color: black;
+}
+
+/* Navigation scroll, for narrow screens */
+.scroll {
+  white-space: nowrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Header graphic */
+.fa-headphones {
+  font-size: 2.5em;
+  color: #e3e5d8;
+  text-shadow: 1px 1px  #A5A3A3;
+}
+
+/* Section titles */
+.subtitle-box {
+  background-color: #35444f;
+  width: inherit;
+  margin-bottom: 5px;
 }

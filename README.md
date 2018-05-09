@@ -21,5 +21,6 @@ The following languages & frameworks were used:
 ## To-Do List
 
 * Clean up code and remove excess spaces
-* Add comments to index, music, and bio pages.
+* Comment pages as they are created
+* Maintain the structure of CSS file (<Elements>, .class, #id)
 * Decorate navigation bar and subtitles with css. (something with waves)
