@@ -24,3 +24,4 @@ The following languages & frameworks were used:
 * Comment pages as they are created
 * Maintain the structure of CSS file (<Elements>, .class, #id)
 * Decorate navigation bar and subtitles with css. (something with waves)
+* Add a lightbox image gallery for the photos page.
